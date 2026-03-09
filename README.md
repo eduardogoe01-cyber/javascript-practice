@@ -1,15 +1,19 @@
-# Javascript-practice
-Coleção de exercícios e pequenos projetos em JavaScript para praticar lógica de programação e desenvolvimento web.
 # JavaScript Practice
 
-Coleção de exercícios e pequenos projetos em JavaScript.
+Coleção de exercícios e mini projetos em JavaScript para praticar lógica de programação.
 
 ## Exercícios
 - Par ou ímpar
 - Soma de números
 - Contagem
+- Maior número
 
 ## Mini projetos
-- Calculadora simples em JavaScript
+- Calculadora
+- Gerador de senha
+- Tabuada
+
+## Tecnologias
+- JavaScript
 
 Autor: Eduardo
